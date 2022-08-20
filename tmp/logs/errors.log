@@ -1,0 +1,240 @@
+[2022-08-13 12:48:40] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 15
+=================
+[2022-08-13 12:48:40] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 15
+=================
+[2022-08-13 12:50:04] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:04] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:29] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:30] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:42] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:43] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:56] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:50:56] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:53:43] Error text: Undefined variable $test | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:54:23] Error text: Undefined variable $test | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 12:54:37] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 11
+=================
+[2022-08-13 13:15:59] Error text: помилка | Файл: E:\OpenServer\domains\wfm-shop\public\index.php | Line: 13
+=================
+[2022-08-13 17:12:33] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:12:46] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:12:59] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:13:31] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:14:46] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:14:48] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:15:41] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:16:28] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:16:31] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:17:07] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:18:38] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:18:56] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:19:23] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:19:37] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:19:57] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:37:46] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:38:10] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 17:38:11] Error text: syntax error, unexpected token "}" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 29
+=================
+[2022-08-13 21:28:09] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-13 21:29:02] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-13 21:29:21] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-13 21:29:58] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-13 21:30:25] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-13 21:45:01] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-13 21:46:56] Error text: wfm\Router::matchRoute(): Return value must be of type bool, none returned | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 60
+=================
+[2022-08-13 22:00:21] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 31
+=================
+[2022-08-13 22:00:31] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 31
+=================
+[2022-08-13 22:20:35] Error text: Undefined variable $self | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 55
+=================
+[2022-08-14 00:34:31] Error text: Controller app\controllers\admin\MainController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 39
+=================
+[2022-08-14 00:37:27] Error text: Controller app\controllers\admin\MainController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 39
+=================
+[2022-08-14 00:38:33] Error text: Controller app\controllers\admin\MainController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 41
+=================
+[2022-08-14 00:40:16] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 44
+=================
+[2022-08-14 00:40:47] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 00:42:13] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 00:46:49] Error text: Controller app\controllers\admin\MainController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 39
+=================
+[2022-08-14 00:47:04] Error text: Controller app\controllers\admin\MainController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 39
+=================
+[2022-08-14 00:47:05] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 42
+=================
+[2022-08-14 00:47:49] Error text: Контроллер app\controllers\admin\MainController не найден | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 40
+=================
+[2022-08-14 00:53:07] Error text: Controller app\controllers\admin\MainController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 39
+=================
+[2022-08-14 00:56:07] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 42
+=================
+[2022-08-14 00:56:44] Error text: Method app\controllers\PageController::viewAction not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 36
+=================
+[2022-08-14 01:07:10] Error text: Method app\controllers\PageController::viewAction not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-14 01:07:41] Error text: Method app\controllers\PageController::viewAction not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-14 01:08:07] Error text: Method app\controllers\PageController::viewAction not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 48
+=================
+[2022-08-14 01:08:48] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 54
+=================
+[2022-08-14 01:08:50] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 54
+=================
+[2022-08-14 14:13:22] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 54
+=================
+[2022-08-14 14:51:50] Error text: Undefined variable $mode | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Controller.php | Line: 21
+=================
+[2022-08-14 14:52:18] Error text: Undefined variable $mode | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Controller.php | Line: 21
+=================
+[2022-08-14 14:52:31] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 14:53:15] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 14:53:40] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:24:43] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:27:34] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:28:06] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:49:57] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:50:10] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:50:10] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-14 21:51:43] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-14 21:52:13] Error text: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 21:52:32] Error text: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 21:53:11] Error text: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 21:53:14] Error text: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 21:53:37] Error text: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 21:53:51] Error text: Call to undefined method app\controllers\admin\MainController::getView() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 50
+=================
+[2022-08-14 21:54:32] Error text: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 45
+=================
+[2022-08-14 22:11:17] Error text:  | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 32
+=================
+[2022-08-14 22:11:46] Error text: File not found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 32
+=================
+[2022-08-14 22:15:05] Error text: File not found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 32
+=================
+[2022-08-14 22:16:03] Error text: File not found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 32
+=================
+[2022-08-14 22:32:56] Error text: Temlpate not foundE:\OpenServer\domains\wfm-shop/app/views/layouts/ishop.php | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 42
+=================
+[2022-08-14 22:33:49] Error text: Temlpate not foundE:\OpenServer\domains\wfm-shop/app/views/layouts/test.php | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 42
+=================
+[2022-08-14 22:35:43] Error text: Temlpate not foundE:\OpenServer\domains\wfm-shop/app/views/layouts/test.php | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 42
+=================
+[2022-08-14 22:38:23] Error text: Too few arguments to function wfm\View::__construct(), 0 passed in E:\OpenServer\domains\wfm-shop\app\views\layouts\ishop.php on line 2 and at least 1 expected | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 9
+=================
+[2022-08-14 22:38:51] Error text: Too few arguments to function wfm\View::__construct(), 0 passed in E:\OpenServer\domains\wfm-shop\app\views\layouts\ishop.php on line 2 and at least 1 expected | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 9
+=================
+[2022-08-14 22:38:53] Error text: Too few arguments to function wfm\View::__construct(), 0 passed in E:\OpenServer\domains\wfm-shop\app\views\layouts\ishop.php on line 2 and at least 1 expected | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 9
+=================
+[2022-08-14 22:53:22] Error text: syntax error, unexpected token "=>", expecting ")" | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 12
+=================
+[2022-08-14 22:53:58] Error text: syntax error, unexpected token "=>", expecting ")" | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 12
+=================
+[2022-08-14 22:54:04] Error text: syntax error, unexpected token "=>", expecting ")" | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 12
+=================
+[2022-08-14 22:54:21] Error text: Call to undefined function wfm\h() | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 49
+=================
+[2022-08-14 22:55:21] Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\helpers\functions.php | Line: 13
+=================
+[2022-08-14 23:06:03] Error text: compact(): Undefined variable $TEST VAR | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 14
+=================
+[2022-08-14 23:06:34] Error text: Undefined variable $test | Файл: E:\OpenServer\domains\wfm-shop\app\views\Main\index.php | Line: 3
+=================
+[2022-08-14 23:06:55] Error text: Undefined variable $test | Файл: E:\OpenServer\domains\wfm-shop\app\views\Main\index.php | Line: 3
+=================
+[2022-08-14 23:07:16] Error text: compact(): Undefined variable $arr | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 14
+=================
+[2022-08-14 23:07:37] Error text: Undefined variable $test | Файл: E:\OpenServer\domains\wfm-shop\app\views\Main\index.php | Line: 3
+=================
+[2022-08-14 23:08:27] Error text: compact(): Undefined variable $base | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 14
+=================
+[2022-08-16 21:55:02] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-16 22:07:43] Error text: Page not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-16 22:08:16] Error text: compact(): Undefined variable $base | Файл: E:\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 14
+=================
+[2022-08-16 22:08:30] Error text: Controller app\controllers\PostsController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 55
+=================
+[2022-08-16 22:08:46] Error text: Controller app\controllers\PostsController not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 55
+=================
+[2022-08-16 22:09:01] Error text: Method app\controllers\PostsController::indexAction not Found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 52
+=================
+[2022-08-16 22:09:11] Error text: File not found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 34
+=================
+[2022-08-16 22:09:46] Error text: File not found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 34
+=================
+[2022-08-16 22:10:13] Error text: File not found | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 34
+=================
+[2022-08-16 22:11:54] Error text: Undefined array key "title" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 49
+=================
+[2022-08-16 22:12:47] Error text: Undefined array key "title" | Файл: E:\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 49
+=================
+[2022-08-16 23:56:13] Error text: syntax error, unexpected variable "$this" | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 12
+=================
+[2022-08-16 23:56:14] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-16 23:57:44] Error text: No connection to database | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Db.php | Line: 17
+=================
+[2022-08-17 00:09:08] Error text: Class "app\controllers\R" not found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\app\controllers\MainController.php | Line: 11
+=================
+[2022-08-17 00:09:44] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wfmshop.name' doesn't exist | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
+=================
+[2022-08-17 00:14:31] Error text: Class "app\models\R" not found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\app\models\Main.php | Line: 11
+=================
+[2022-08-17 00:31:02] Error text: Call to undefined method wfm\View::getFile() | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\app\views\layouts\ishop.php | Line: 6
+=================
+[2022-08-20 12:11:04] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================

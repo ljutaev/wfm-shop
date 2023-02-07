@@ -238,3 +238,45 @@
 =================
 [2022-08-20 12:11:04] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
 =================
+[2022-08-20 12:32:55] Error text: Undefined array key "title" | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 51
+=================
+[2022-08-20 12:33:20] Error text: Undefined array key "title" | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 51
+=================
+[2022-08-20 12:35:24] Error text: Trying to access array offset on value of type null | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Controller.php | Line: 20
+=================
+[2022-08-20 12:38:48] Error text: Undefined array key "title" | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\View.php | Line: 51
+=================
+[2022-08-20 12:43:44] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 12:46:54] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 12:46:54] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 12:46:55] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 12:47:42] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:00:31] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:01:41] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:04:55] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:04:55] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:05:02] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:05:02] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:05:03] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:05:03] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-08-20 14:05:31] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-10-21 10:05:59] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-10-21 10:06:00] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
+[2022-10-21 10:18:13] Error text: Page not Found | Файл: E:\OpenServer\OpenServer\domains\wfm-shop\vendor\wfm\Router.php | Line: 58
+=================
